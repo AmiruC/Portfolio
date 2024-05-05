@@ -14,4 +14,4 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Echo a Message
-      run: echo "Hello, world!"
+      run: echo "Code Pushed Successfully"
